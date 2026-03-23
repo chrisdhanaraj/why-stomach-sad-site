@@ -51,4 +51,4 @@ If this policy changes, the updated version will be posted here with a new date.
 
 ## Contact
 
-If you have questions about this policy, contact Chris Dhanaraj at TODO@email.com.
+If you have questions about this policy, open an issue on [GitHub](https://github.com/chrisdhanaraj/why-stomach-sad-site/issues).
